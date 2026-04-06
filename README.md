@@ -28,7 +28,7 @@ There are **no agent frameworks, no multi-agent orchestration, and no tool-calli
 
 ---
 
-## 🏗️ How the Workflow Works
+## ♦ How the Workflow Works
 
 ```
 START
@@ -53,7 +53,7 @@ END
 
 ---
 
-## 📁 Project Structure
+## ♦ Project Structure
 
 ```
 DebateSphereAI/
@@ -86,7 +86,7 @@ DebateSphereAI/
 
 ---
 
-## ⚙️ Setup & Installation
+## ♦ Setup & Installation
 
 ### 1. Navigate to the project folder
 
@@ -128,7 +128,7 @@ Open your browser at `http://localhost:8501`
 
 ---
 
-## 🎯 Usage
+## ♦ Usage
 
 1. **Configure** in the sidebar: enter a topic, choose mode/style/tone/domain and personas
 2. **Click "🚀 Start Debate"** — the 13-stage LangGraph workflow executes
@@ -141,7 +141,7 @@ Open your browser at `http://localhost:8501`
 
 ---
 
-## 🗣️ How to Explain This to Faculty
+## ♦ Overview
 
 > "This project uses LangGraph to build a structured 13-stage debate workflow.
 > There is one `StateGraph` with one `DebateState` TypedDict.
@@ -156,7 +156,7 @@ Open your browser at `http://localhost:8501`
 
 ---
 
-## 🛠️ Tech Stack
+## ♦ Tech Stack
 
 - **Python** — core language
 - **LangGraph** — `StateGraph` workflow orchestration
@@ -168,21 +168,12 @@ Open your browser at `http://localhost:8501`
 
 ---
 
-## 📝 Resume Description
-
-> Built **DebateSphere AI**, a structured AI debate simulator using LangGraph, Gemini API, and Streamlit — featuring a 13-stage sequential workflow where a single LLM is invoked with role-specific prompts (moderator, PRO, CON, fact-check reviewer, judge), structured scoring, claim analysis, and interactive verdict generation through a premium Streamlit dashboard.
-
----
-
-## 🔮 Future Enhancements
+## ♦ Future Enhancements
 
 - Real-time streaming of Gemini responses
-- PDF transcript export
-- Debate history and session storage
 - Voice-based debate mode
 - Web-grounded fact checking
 - Score trend charts across multiple debates
-- Topic recommendation engine
 
 ---
 

@@ -1,0 +1,38 @@
+{
+  "Technology": [
+    "Should AI replace first-round job interviews?",
+    "Should social media platforms regulate AI-generated content strictly?",
+    "Should governments mandate open-source AI models?",
+    "Is algorithmic content curation harmful to democracy?"
+  ],
+  "Business": [
+    "Should startups prioritize growth over profitability?",
+    "Is remote work better than hybrid work for productivity?",
+    "Should companies adopt a 4-day work week?",
+    "Is subscription-based pricing better than one-time purchases?"
+  ],
+  "Education": [
+    "Should college degrees be replaced by skill-based certification?",
+    "Should AI tutors become mainstream in schools?",
+    "Is standardized testing an accurate measure of intelligence?",
+    "Should coding be mandatory in school curricula?"
+  ],
+  "Ethics": [
+    "Should governments heavily regulate generative AI?",
+    "Is mass surveillance justified for public safety?",
+    "Should autonomous weapons be banned internationally?",
+    "Is it ethical for companies to use AI to monitor employees?"
+  ],
+  "Product Management": [
+    "Should product decisions be more data-driven than intuition-driven?",
+    "Should companies release MVPs faster even with imperfect features?",
+    "Is user research more valuable than A/B testing?",
+    "Should product teams be cross-functional or specialized?"
+  ],
+  "Finance": [
+    "Should cryptocurrency replace traditional banking?",
+    "Is ESG investing a genuine strategy or greenwashing?",
+    "Should central banks issue digital currencies?",
+    "Is universal basic income economically viable?"
+  ]
+}

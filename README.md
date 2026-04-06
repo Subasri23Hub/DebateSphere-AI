@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 What is DebateSphere AI?
+## ♦ What is DebateSphere AI?
 
 DebateSphere AI is a **structured LangGraph workflow** that simulates a full professional debate. It uses a single Gemini model called sequentially across 13 workflow stages — each stage sends a different role-specific prompt (moderator, PRO debater, CON debater, fact-check reviewer, judge) and writes the output into a shared state.
 
@@ -13,7 +13,7 @@ There are **no agent frameworks, no multi-agent orchestration, and no tool-calli
 
 ---
 
-## ✨ Features
+## ♦ Features
 
 | Feature | Description |
 |---|---|
